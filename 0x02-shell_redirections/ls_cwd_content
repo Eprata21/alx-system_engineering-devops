@@ -10,3 +10,23 @@
 \\*\\'"Best School"\'\\\*$\\?\\*\\*\\*\\*\\*:)
 ls_cwd_content
 README.md
+total 72
+drwxr-xr-x 2 root root 4096 Dec  5 12:49 .
+drwxr-xr-x 6 root root  104 Dec  5 04:37 ..
+-rwxr--r-- 1 root root   32 Dec  5 05:44 0-hello_world
+-rwxr--r-- 1 root root   24 Dec  5 08:55 10-no_more_js
+-rwxr--r-- 1 root root   36 Dec  5 09:01 11-directories
+-rwxr--r-- 1 root root   26 Dec  5 09:03 12-newest_files
+-rwxr--r-- 1 root root   27 Dec  5 09:06 13-unique
+-rwxr--r-- 1 root root   28 Dec  5 12:41 1-confused_smiley
+-rwxr--r-- 1 root root   28 Dec  5 04:58 2-hellofile
+-rwxr--r-- 1 root root   37 Dec  5 12:45 3-twofiles
+-rwxr--r-- 1 root root   33 Dec  5 05:11 4-lastlines
+-rwxr--r-- 1 root root   33 Dec  5 05:15 5-firstlines
+-rwxr--r-- 1 root root   40 Dec  5 05:20 6-third_line
+-rwxr--r-- 1 root root  101 Dec  5 12:48 7-file
+-rwxr--r-- 1 root root   37 Dec  5 12:49 8-cwd_state
+-rwxr--r-- 1 root root   30 Dec  5 08:47 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Dec  5 12:48 \\*\\'"Best School"\'\\\*$\\?\\*\\*\\*\\*\\*:)
+-rw-r--r-- 1 root root  184 Dec  5 08:45 ls_cwd_content
+-rw-r--r-- 1 root root   18 Dec  5 04:40 README.md
